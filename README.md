@@ -2,6 +2,19 @@
 
 ## Project Overview
 This project uses YOLOv10n to detect and classify road damage in images.
+<img width="1098" height="907" alt="Screenshot 2026-10-26 210232" src="https://github.com/user-attachments/assets/60570095-a1b1-451e-a096-4b63a1be6689" />
+
+<img width="1023" height="903" alt="Screenshot 2026-10-26 210402" src="https://github.com/user-attachments/assets/4af12b02-e960-4c38-b21e-6fc668ffbf9e" />
+
+<img width="1125" height="914" alt="Screenshot 2026-10-26 210154" src="https://github.com/user-attachments/assets/a5a36e86-b306-46a4-a80d-aabc9866e52c" />
+
+<img width="1165" height="906" alt="Screenshot 2026-10-26 210513" src="https://github.com/user-attachments/assets/55be92c9-fc4b-4342-a5c3-dfe0e8444548" />
+<img width="1029" height="923" alt="Screenshot 2026-10-26 210611" src="https://github.com/user-attachments/assets/a94e5b80-9773-435b-97b1-4cf642d87f72" />
+
+
+
+
+
 
 ## Supported Classes
 - Alligator
