@@ -1,0 +1,7 @@
+Experiment,Learning Rate,Optimizer,Image Size,Batch Size,Precision (%),Recall (%),mAP50 (%),mAP50-95 (%),Notes
+YOLOv10n baseline,Default,Default,640,16,,,,,Baseline metrics are recorded in model_comparison.csv
+AdamW lr=0.001,0.001,AdamW,640,16,59.1,38.8,40.0,23.4,30 epochs
+AdamW lr=0.0005,0.0005,AdamW,640,16,61.18,40.14,41.76,24.37,30 epochs
+"Fine-tuned lr=0.0005, imgsz=800",0.0005,Inherited from prior run,800,8,61.4,42.0,42.6,24.4,Fine-tuned from lr=0.0005 checkpoint
+Fine-tuned lr=0.0003,0.0003,Inherited from prior run,640,16,61.5,42.5,43.0,25.2,Selected model; validation results
+"Fine-tuned lr=0.0003, imgsz=800",0.0003,Inherited from prior run,800,8,62.0,42.1,42.8,24.7,Fine-tuned from lr=0.0003 checkpoint

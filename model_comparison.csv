@@ -1,0 +1,4 @@
+Model,Precision (%),Recall (%),mAP50 (%),mAP50-95 (%),Inference Time (ms),Model Size (MB)
+YOLOv8n,57.1,39.6,40.2,23.6,2.0,6.5
+YOLO11n,61.6,39.2,41.3,24.0,4.6,5.5
+YOLOv10n,62.4,38.5,40.6,23.7,2.8,5.8
